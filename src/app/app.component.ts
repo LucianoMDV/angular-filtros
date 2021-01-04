@@ -33,7 +33,7 @@ export class AppComponent {
       d4: '-',
     },
     {
-      titulo: 'Basico',
+      titulo: 'Recomendado',
       precio: 200,
       mes: 'MES',
       d1: 'Redes Sociales',
@@ -42,7 +42,7 @@ export class AppComponent {
       d4: 'Diseño de imagen',
     },
     {
-      titulo: 'Basico',
+      titulo: 'Avanzado',
       precio: 300,
       mes: 'MES',
       d1: 'Redes Sociales',
